@@ -1,0 +1,73 @@
+.hero
+  color: white
+
+.hero-background
+  background: linear-gradient(90deg, rgba(2,0,36,1) 10%, rgba(9,9,121,0) 46%, rgba(2,0,36,1) 90%),url('../assets/mainsectionbg.png')
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center center
+  padding: 2.5rem 5.5rem
+
+.main-heading
+  font-size: 6rem
+  letter-spacing: 5px
+
+.category
+  margin-left: 2rem
+
+.rating
+  font-weight: 300
+  .rating-icon
+    margin-right: 0.5rem
+
+.description
+  width: 50%
+  font-size: 1.45rem
+
+.section-full-height
+  height: 90vh
+
+// Hero bottom left links
+.hero-sections
+  color: white
+
+.hero-sections-links
+  gap: 2rem
+  font-weight: 400
+
+.hero-section-link:hover,
+.hero-section-link:focus,
+.hero-section-link:active
+  color: white
+  text-decoration: none
+  font-weight: bold
+  font-size: 1.1rem
+
+.hero-section-link
+  position: relative
+  display: block
+  padding: 16px 0
+  margin: 0 12px
+  letter-spacing: 1px
+  line-height: 16px
+  transition: 0.2s ease-in
+
+.hero-section-link::before
+  content: ''
+  display: block
+  position: absolute
+  bottom: 3px
+  left: 0
+  height: 2px
+  width: 100%
+  background-color: #106580
+  transform-origin: right top
+  transform: scale(0, 1)
+  transition: color 0.1s,transform 0.2s ease-out
+
+.hero-section-link:hover::before, a:focus::before
+  transform-origin: left top
+  transform: scale(1, 1)
+
+.hero-symbols-right
+  gap: 0.4rem

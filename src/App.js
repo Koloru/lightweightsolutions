@@ -5,7 +5,7 @@ import WebFont from 'webfontloader';
 import { useEffect } from 'react';
 
 // Component Imports
-import Header from './components/header/Header'
+import Main from './components/Main'
 
 // styles
 import './App.sass';
@@ -23,9 +23,15 @@ function App() {
 
   return (
     <div className="App container">
-      <Header />
+      <Main />
     </div>
   );
 }
 
 export default App;
+
+
+// Todo
+// Json on every series for API fetching
+// 2 different card components vertical/ horizontal
+// install font awesome
