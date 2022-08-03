@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Attack on Titan",
+    "img": "",
+    "episodes": [
+      {
+        "number": 1,
+        "img": "",
+        "synopsis": "The citizens worry they will be at the Titans' mercy after many years of peace."
+      },
+      {
+        "number": 2,
+        "img": "",
+        "synopsis": "The Shiganshina citizens are under attack from the Titans."
+      },
+      {
+        "number": 3,
+        "img": "",
+        "synopsis": "Eren butt heads with Jean Kirschtein, a cadet who wants to be in the Military Police Regiment. Berholt and Reiner help Eren learn during training."
+      }
+    ],
+    "synopsis": "When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks. But the safety they have had for so long is threatened when a colossal Titan smashes through the barriers, causing a flood of the giants into what had been the human…"
+  },
+  {
+    "name": "Jujutsu Kaisen",
+    "img": "",
+    "episodes": [],
+    "synopsis": "Yuji Itadori, a kind-hearted teenager, joins his school's Occult Club for fun, but discovers that its members are actual sorcerers who can manipulate the energy between beings for their own use. He hears about a cursed talisman - the finger of Sukuna, a demon - and its being targeted by other cursed beings."
+  },
+  {
+    "name": "One Piece",
+    "img": "",
+    "episodes": [],
+    "synopsis": "One Piece is the story of Monkey D. Luffy, a young man who has a single dream: To find the legendary treasure known as the One Piece and become the King of the Pirates. Alongside a crew of trusted friends, Luffy sails the dangerous seas of the Grand Line to find Laugh Tale, the hidden island containing the One Piece."
+  }
+]
