@@ -1,5 +1,6 @@
 import aot from '../assets/aot.png'
 import jujutsu from '../assets/jujutsu.png'
+import onepiece from '../assets/onepiece.png'
 
 const throwbackAnime = [
     {
@@ -12,7 +13,7 @@ const throwbackAnime = [
     },
     {
         title: '',
-        image: aot,
+        image: onepiece,
     },
 ]
 
